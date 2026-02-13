@@ -32,7 +32,7 @@ body{
     color: #fdfafe;
     background-color: #ed6dc9;
 }
-#reset-button{
+#reset-btn{
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 20px;
@@ -42,7 +42,7 @@ body{
     border-radius: 10px;
     cursor: pointer;
 }
-#new-button{
+#new-btn{
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 20px;
@@ -65,3 +65,4 @@ body{
 .hide{
      display: none;
 }
+
