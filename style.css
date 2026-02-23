@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: rgb(187, 235, 41);
+    background-color: #cdb4db;
     text-align: center;
    }
 .container{
@@ -27,16 +27,16 @@ body{
     width: 18vmin;
     border-radius: 10px;
     border: none;
-    box-shadow: 0 0 10px rgb(251, 139, 11);
+    box-shadow: 0 0 10px #ffafcc;
     font-size: 15vmin; 
     color: #fdfafe;
-    background-color: #ed6dc9;
+    background-color: #a2d2ff;
 }
 #reset-btn{
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 20px;
-    background-color: #e98a4f;
+    background-color: #bde0fe;
     color: white;
     border: none;
     border-radius: 10px;
@@ -46,7 +46,7 @@ body{
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 20px;
-    background-color: #e98a0f;
+    background-color: #bde0fe;
     color: white;
     border: none;
     border-radius: 10px;
@@ -65,5 +65,3 @@ body{
 .hide{
      display: none;
 }
-
-
