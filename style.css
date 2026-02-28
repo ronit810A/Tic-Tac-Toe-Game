@@ -30,13 +30,13 @@ body{
     box-shadow: 0 0 10px #ffafcc;
     font-size: 15vmin; 
     color: #fdfafe;
-    background-color: #a2d2ff;
+    background-color: #75b8f6;
 }
 #reset-btn{
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 20px;
-    background-color: #bde0fe;
+    background-color: #0ceded;
     color: white;
     border: none;
     border-radius: 10px;
@@ -46,7 +46,7 @@ body{
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 20px;
-    background-color: #bde0fe;
+    background-color:  #0ceded;
     color: white;
     border: none;
     border-radius: 10px;
